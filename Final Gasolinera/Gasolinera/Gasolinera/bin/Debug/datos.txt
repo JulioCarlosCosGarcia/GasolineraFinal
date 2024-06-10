@@ -1,0 +1,13 @@
+Nombre: Julio Cos, Tipo de Despacho: Prepago, Precio del Día: 15, Bomba Seleccionada: Bomba 2, Cantidad: 20
+ID: 1, Nombre: Jose Ramoz, Tipo de Despacho: Prepago, Precio del Día: 15, Bomba Seleccionada: Bomba 2, Pago: 25, Fecha: 09/06/2024, Hora: 05:24:32 p. m.
+ID: 2, Nombre: Jose Ramoz, Tipo de Despacho: Prepago, Precio del Día: 15, Bomba Seleccionada: Bomba 2, Litros: 1.34, Pago: 25, Fecha: 09/06/2024, Hora: 05:24:47 p. m.
+ID: 3, Nombre: Luis Colop, Tipo de Despacho: Tanque lleno, Precio del Día: 15, Bomba Seleccionada: Bomba 3, Pago: , Fecha: 09/06/2024, Hora: 05:25:43 p. m.
+ID: 4, Nombre: Luis Colop, Tipo de Despacho: Tanque lleno, Precio del Día: 15, Bomba Seleccionada: Bomba 3, Litros: 1.70, Pago: , Fecha: 09/06/2024, Hora: 05:26:02 p. m.
+ID: 1, Nombre: Sebastian Lopez, Tipo de Despacho: Tanque lleno, Precio del Día: 25, Bomba Seleccionada: Bomba 4, Litros: 1.40, Pago: 35.05, Fecha: 09/06/2024, Hora: 05:32:19 p. m.
+ID: 1, Nombre: Julio Cos, Tipo de Despacho: Prepago, Precio del Día: 20, Bomba Seleccionada: Bomba 2, Litros: 1.01, Pago: 20, Fecha: 09/06/2024, Hora: 05:45:14 p. m.
+ID: 2, Nombre: Pedro Zip, Tipo de Despacho: Prepago, Precio del Día: 20, Bomba Seleccionada: Bomba 2, Litros: 1.00, Pago: 20, Fecha: 09/06/2024, Hora: 05:45:50 p. m.
+ID: 3, Nombre: Juan, Tipo de Despacho: Prepago, Precio del Día: 20, Bomba Seleccionada: Bomba 2, Litros: 1.51, Pago: 30, Fecha: 09/06/2024, Hora: 05:46:20 p. m.
+ID: 4, Nombre: Erick, Tipo de Despacho: Tanque lleno, Precio del Día: 20, Bomba Seleccionada: Bomba 3, Litros: 2.12, Pago: 42.40, Fecha: 09/06/2024, Hora: 05:47:21 p. m.
+ID: 1, Nombre: Julio Cs, Tipo de Despacho: Prepago, Precio del Día: 25, Bomba Seleccionada: Bomba 2, Litros: 1.00, Pago: 25, Fecha: 09/06/2024, Hora: 07:19:13 p. m.
+ID: 1, Nombre: jdhd, Tipo de Despacho: Prepago, Precio del Día: 25, Bomba Seleccionada: Bomba 3, Litros: 0.80, Pago: 20, Fecha: 09/06/2024, Hora: 07:21:54 p. m.
+ID: 2, Nombre: juan, Tipo de Despacho: Tanque lleno, Precio del Día: 25, Bomba Seleccionada: Bomba 3, Litros: 1.69, Pago: 42.30, Fecha: 09/06/2024, Hora: 07:22:57 p. m.
